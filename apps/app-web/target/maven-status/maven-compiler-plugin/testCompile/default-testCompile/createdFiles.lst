@@ -1,0 +1,5 @@
+org\jpwh\test\service\IntegrationTest.class
+org\jpwh\test\service\ItemServiceTest$1.class
+org\jpwh\test\service\PagingTest.class
+org\jpwh\test\service\ItemServiceTest.class
+org\jpwh\test\service\AuctionServiceTest.class

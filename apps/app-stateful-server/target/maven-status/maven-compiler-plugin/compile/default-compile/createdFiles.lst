@@ -1,0 +1,7 @@
+org\jpwh\stateful\AuctionService.class
+org\jpwh\stateful\ItemService.class
+org\jpwh\stateful\RemoteItemService.class
+org\jpwh\SampleDataImporter.class
+org\jpwh\stateful\AuctionServiceImpl.class
+org\jpwh\stateful\RemoteAuctionService.class
+org\jpwh\stateful\ItemServiceImpl.class
